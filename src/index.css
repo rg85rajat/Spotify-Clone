@@ -1,0 +1,42 @@
+.btn.dropdown-toggle  {
+  width:150px;
+  text-align:left;
+}
+
+span.caret {
+  position: absolute;
+  left: 90%;
+  top: 45%;
+}
+
+label {
+  padding-top:5px;
+}
+
+.form-label {
+  padding-left:0px !important;
+}
+
+img {
+  width:240px;
+  height:240px;
+}
+
+.btn-success {
+  background-color: #3e8c3e!important;
+}
+
+.btn-success:hover {
+  background-color: #1db954!important;
+}
+
+img.track {
+  border: 5px solid #8a8a8a;
+}
+body{
+  background-color:rgb(83, 83, 83);
+}
+label{
+  font-weight: bold;
+  color: white;
+}
